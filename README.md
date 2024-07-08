@@ -26,3 +26,6 @@ The aim of this project was to develop a laboratory prototype of a solar trackin
 ## Key Learnings and Insights
 - Developed skills in teamwork, resource management, and technical expertise in circuits and coding.
 - Gained practical knowledge about solar panels and their optimization for maximum power output.
+
+## License
+[MIT License](LICENSE)
